@@ -15,7 +15,7 @@ competition back up
 ### 3. 模型选择（model chosen）
     catboost==0.15
     lightgbm
-    neural network(keras)
+    neural network(keras == 2.2.4)
 ### 4. 模型评测（model evaluation）
     Final top30
 ### 5. 模型文件（model document）
