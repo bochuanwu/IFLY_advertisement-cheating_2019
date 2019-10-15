@@ -17,7 +17,7 @@ competition back up
     lightgbm
     neural network(keras == 2.2.4)
 ### 4. 模型评测（model evaluation）
-    Final top30
+    Final test B top30
 ### 5. 模型文件（model document）
     catboost document == catboost_demo1.py
     lightgbm document == to do
