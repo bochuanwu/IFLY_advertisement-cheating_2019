@@ -1,6 +1,7 @@
 # IFLY_advertisement-cheating_2019
 2019科大讯飞AI反欺诈
 competition back up  
+如果您喜欢的话 欢迎star
 
 背景(background):  
 比赛地址（competition address）：[advertisement-cheating](http://challenge.xfyun.cn/2019/gamedetail?type=detail/mobileAD)
