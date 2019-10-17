@@ -5,7 +5,7 @@ competition back up
 
 背景(background):  
 比赛地址（competition address）：[advertisement-cheating](http://challenge.xfyun.cn/2019/gamedetail?type=detail/mobileAD)
-
+数据集地址（dataset address）：[dataset](https://www.kaggle.com/ssslarry/ifly-antifraud)  (别人上传的)
 广告欺诈是数字营销面临的一个重大挑战，随着基础技术的成熟化（篡改设备信息、IPv4服务化、黑卡、接码平台等），广告欺诈呈现出规模化、集团化的趋势，其作弊手段主要包括机器人、模拟器、群控、肉鸡/后门、众包等。广告欺诈不断蚕食着营销生态，反欺诈成为数字营销领域亟待突破的关键问题。
 
 ### 1. 依赖（dependence）
